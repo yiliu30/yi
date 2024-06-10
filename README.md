@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on @Intel
-- 🌱 I’m currently learning LLM, Quantization
+- 🌱 I’m currently learning LLM, Quantization, TGI...
 - 💬 Ask me about LLM, low-bits quantization, and so on...
 
 [![Yi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yiliu30&count_private=true&show_icons=true)](https://github.com/yiliu30)
